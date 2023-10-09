@@ -1,0 +1,33 @@
+.flex-container {
+
+  display: flex;
+	width: 70%;
+	margin: auto;
+}
+
+.flex-item-left {
+	padding: 10px;
+}
+
+.flex-item-right {
+	padding: 10px;
+}
+
+.flex-item-right p {
+	text-justify: inter-word;
+	text-align: justify;
+	white-space: pre-line;
+	font-family:;
+
+}
+
+
+hr {
+	width="73%";
+}
+
+/* Responsive layout - makes a one column-layout instead of a two-column layout */
+@media screen and (max-width: 800px) {
+	.flex-container {flex-direction: column;}
+	a {float: none;}
+}

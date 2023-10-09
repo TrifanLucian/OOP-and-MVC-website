@@ -1,0 +1,29 @@
+.nota {
+	text-align: center;
+}
+
+.jurnal {
+	width: 70%; 
+	margin: auto;
+}
+
+.jurnal h1 {
+	text-align: center;
+}
+
+.jurnal h2 {
+	text-align: center;
+}
+
+.jurnal h4 {
+	text-justify: inter-word;
+	text-align: justify;
+	white-space: pre-line;
+	
+}
+
+.erori {
+	text-align: center;
+	font-weight: bold;
+}
+	
